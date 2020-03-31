@@ -1,0 +1,9 @@
+{
+  "main.css": "static/css/main.css",
+  "main.js": "static/js/bundle.js",
+  "main.css.map": "static/css/main.css.map",
+  "main.js.map": "static/js/bundle.js.map",
+  "favicon.ico": "favicon.ico",
+  "index.html": "index.html",
+  "static/images/code.png": "static/images/ebdaa75eef.png"
+}
